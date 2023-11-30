@@ -1,0 +1,13 @@
+﻿  Blocks.cpp
+  CommandBlock.cpp
+  Ishaped.cpp
+  Solvingarrays.cpp
+  UpdateTool.cpp
+  jIshaped.cpp
+  square.cpp
+  正在生成代码
+  14 of 430 functions ( 3.3%) were compiled, the rest were copied from previous compilation.
+    7 functions were new in current compilation
+    32 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  CommandBlock.vcxproj -> C:\Users\Administrator\source\repos\CommandBlock\x64\Release\CommandBlock.exe
